@@ -1,2 +1,2 @@
 # app
-Flutter mobile application
+React Native mobile application
